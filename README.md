@@ -2,7 +2,7 @@
 Small scale instances from: Stochastic-dynamic forward-reserve allocation: Depalletization planning in a wholesale warehouse with uncertain retrieval sequence
 
 Instances consist of two components:
-1. The properties of the products, i.e., the demand probabilities and volumes of individual units.
+1. The properties of the products, i.e., the demand probabilities, volumes of individual units and heterogeneous weights for depalletization costs
 2. The deterministic demand sequence W.
 
 The first can be found in the "Setup" folder, while the second one can be found in the "Complete W" folder. In addition, the same sequences are provided as numpy files, which improves machine readability.
